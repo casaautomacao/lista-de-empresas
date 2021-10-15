@@ -243,6 +243,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### Rio Grande do Sul<a name="idRS"></a>
 
+#### Novo Hamburgo
+- [Crescer Indústria de Automação](https://www.crescerengenharia.com/)
+
 #### Canoas
 
 - [EXATRON](https://www.exatron.com.br/)
